@@ -1,0 +1,16 @@
+<div class="container mt-3">
+
+    <div class="card col-6 mx-auto">
+      <h5 class="card-header"><span appColora>{{p.id}}</span></h5>
+      <div class="card-body">
+        <h5 class="card-title">{{p.title | maiuscolo}}</h5>
+        <p class="card-text">{{p.body}}</p>
+      </div>
+      <ng-content></ng-content>
+
+      <button class="btn btn-danger" (click)="elimina()">Elimina</button>
+      <button routerLink='/dettaglio/{{p.id}}' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}"
+        class="btn btn-primary">Dettaglio</button>
+    </div>
+  </div>
+

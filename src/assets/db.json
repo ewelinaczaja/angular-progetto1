@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id":8,
+      "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active":true,
+      "autor": "Marco",
+      "type": "news",
+      "email": "marco@gmail.com",
+      "role": "admin"
+  },
+  {
+    "id":9,
+    "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+    "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+    "active":false,
+    "autor": "Mirco",
+    "type": "news",
+    "email": "mirco@gmail.com",
+    "role": "admin"
+},
+{
+  "id":11,
+  "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+  "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+  "active":true,
+  "autor": "Filippo",
+  "type": "politic",
+  "email": "filippo@gmail.com",
+  "role": "admin"
+},
+{
+  "id":12,
+  "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+  "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+  "active":true,
+  "autor": "Davide",
+  "type": "news",
+  "email": "davide@gmail.com",
+  "role": "admin"
+},
+{
+  "id":14,
+  "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+  "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+  "active":false,
+  "autor": "Anna",
+  "type": "politic",
+  "email": "anna@gmail.com",
+  "role": "admin"
+},
+{
+  "id":15,
+  "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+  "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+  "active":true,
+  "autor": "Luca",
+  "type": "news",
+  "email": "luca@gmail.com",
+  "role": "admin"
+},
+{
+  "id":18,
+  "body":"Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+  "title":"Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+  "active":false,
+  "autor": "Giovanni",
+  "type": "news",
+  "email": "giovanni@gmail.com",
+  "role": "admin"
+}
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Marco",
+      "email": "marco@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Filippo",
+      "email": "filippo@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Giovanni",
+      "email": "giovanni@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 4,
+      "name": "Dario",
+      "email": "dario@gmail.com",
+      "role": "user"
+    }
+  ]
+}

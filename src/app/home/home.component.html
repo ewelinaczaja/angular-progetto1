@@ -1,0 +1,6 @@
+<h1 class="text-center"><span appColora>{{"Benvenuto" | maiuscolo}}</span> nella home page</h1>
+<div class="text-center">
+  <span class="btn btn-dark w-10 my-2 mx-5 text-white" [routerLink]="['/', 'active']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Post attivi</span>
+  <span class="btn btn-dark w-10 m-2 text-white"  [routerLink]="['/active/false']" routerLinkActive="active"  [routerLinkActiveOptions]="{exact: true}" >Post non attivi</span>
+</div>
+
